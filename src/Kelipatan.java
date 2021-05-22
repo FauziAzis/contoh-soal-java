@@ -40,7 +40,7 @@ public class Kelipatan {
 
     public static void main(String[] args) {
 
-        System.out.println(new Kelipatan().kelipatanx(9));
+        System.out.println(new Kelipatan().kelipatanx(1520048));
 
     }
 
